@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Ghazal2623/ghazal2623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ghazal Ashraf 👋
 
-Here are some ideas to get you started:
+I am a passionate **Java Developer** and **Technical Support Engineer** with experience in backend development, API integration, and enterprise solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies
+- Java, J2EE, REST & SOAP Web Services  
+- API Integration & Microservices  
+- SQL & Database Management  
+- Agile Scrum Methodology  
+- Version Control (Git & GitHub)  
+
+---
+
+## 🚀 Projects
+- **Compact Identity** – Billing & Reports modules automating financial processes  
+- **Colonell 12.7** – Customer Interaction Management with secure data exchange  
+- **PRASAC FLEXCUBE Integration** – Java-based image and signature upload integration (demo)  
+- **PMO Tool** – Employee progress and attendance tracking system  
+
+Explore my code and contributions here: [GitHub Repositories](https://github.com/Ghazal2623)
+
+---https://github.com/Ghazal2623
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/ghazal-ashraf) 
+- Email: ghazal.ashraf24@gmail.com
+
+---
+
+Thank you for visiting my profile! Feel free to reach out for collaboration or job opportunities.

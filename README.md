@@ -11,7 +11,10 @@ I am a passionate **Java Developer** and **Technical Support Engineer** with exp
 - API Integration & Microservices  
 - SQL & Database Management  
 - Agile Scrum Methodology  
-- Version Control (Git & GitHub)  
+- Version Control (Git & GitHub)
+- Cloud Tech (AWS, Docker, Kubernetes, Jenkins)
+- Technical Support & Troubleshooting
+- Log Analysis, Ticketing Systems
 
 ---
 

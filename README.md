@@ -30,7 +30,7 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 ## 📫 Connect with me
 - LinkedIn: (https://www.linkedin.com/in/ghazal-ashraf) 
-- Email: ghazal.ashraf24@gmail.com
+- Email: ghazalashraf26@gmail.com
 
 ---
 
